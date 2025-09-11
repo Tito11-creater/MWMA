@@ -5,6 +5,9 @@ Paper link: https://doi.org/10.1016/j.scib.2025.08.021
 
 # Software dependencies
 MATLAB (tested on R2020a - https://www.mathworks.com/products/matlab.html)
+SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
+DPABI (https://rfmri.org/DPABI)
+CPQR (https://github.com/asdamle/QR-spectral-clustering)
 
 # MWMA-50-400_atlas
 The 50, 100, 150, 200, 250, 300, 350, 400-ROI MWMA and the white matter mask in nifti format are provided.
