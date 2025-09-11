@@ -28,10 +28,10 @@ The '02_data' file includes the example data from three subjects and the require
 
 There are four steps to generate the final group-level white matter atlas.
 
-Step1: The inputs are the six imaging features (ALFF, dALFF, ReHo, DC, FA, MD in nifti format) for each subject, the output is the individual similarity matrix W in sparse form (in the 'sub_0X' folder).
+Step1: The inputs are the six imaging features (ALFF, dALFF, ReHo, DC, FA, MD in nifti format) for each subject, the output is the individual-level similarity matrix W in sparse form (in the 'sub_0X' folder).
 
-Step2: The input is the individual similarity matrix W, the output is the individual level white matter atlas with k ROIs in nifti format (in the 'sub_0X' folder).
+Step2: The input is the individual-level similarity matrix W, the output is the individual-level MWMA with k ROIs in nifti format (in the 'sub_0X' folder).
 
-Step3: The input is the individual white matter atlas, the ouput is the group average adjacent matrix A_group (in the '02_data' folder).
+Step3: The input is the individual-level MWMA, the ouput is the group-level (averaged) adjacent matrix A_group (in the '02_data' folder).
 
-Step4: The input is the group average adjacent matrix A_group, the output is the group-level white matter atlas with k ROIs in nifti format (in the '02_data' folder).
+Step4: The input is the group-level adjacent matrix A_group, the output is the group-level MWMA with k ROIs in nifti format (in the '02_data' folder).
