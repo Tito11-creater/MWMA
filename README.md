@@ -1,4 +1,4 @@
-# MWMA
+# Multimodal white matter atlas (MWMA)
 Welcome to the MWMA package; a companion to our article "Multimodal, multifaceted, imaging-based human brain white matter atlas".
 
 Paper link: https://doi.org/10.1016/j.scib.2025.08.021
@@ -10,7 +10,7 @@ DPABI (https://rfmri.org/DPABI)
 CPQR (https://github.com/asdamle/QR-spectral-clustering)
 
 # MWMA-50-400_atlas
-The 50, 100, 150, 200, 250, 300, 350, 400-ROI MWMA and the white matter mask in nifti format are provided.
+The 50, 100, 150, 200, 250, 300, 350, 400-ROI MWMAs and the WM mask in nifti format are provided.
 
 The functional network label file and the ITKSNAP-description file of the MWMAs at all resolutions are provided.
 
