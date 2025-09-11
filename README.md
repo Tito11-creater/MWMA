@@ -1,6 +1,4 @@
 # MWMA
-Multimodal, Multifaceted, Imaging-based Human Brain White Matter Atlas
-
 Welcome to the MWMA package; a companion to our article "Multimodal, multifaceted, imaging-based human brain white matter atlas".
 
 Paper link: https://doi.org/10.1016/j.scib.2025.08.021
