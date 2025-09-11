@@ -3,7 +3,7 @@ Multimodal, Multifaceted, Imaging-based Human Brain White Matter Atlas
 
 Welcome to the MWMA package; a companion to our article "Multimodal, Multifaceted, Imaging-based Human Brain White Matter Atlas".
 
-Preprint paper link: https://www.biorxiv.org/content/10.1101/2024.11.24.625092v1
+Paper link: https://doi.org/10.1016/j.scib.2025.08.021
 
 # Software dependencies
 MATLAB (tested on R2020a - https://www.mathworks.com/products/matlab.html)
@@ -12,6 +12,8 @@ MATLAB (tested on R2020a - https://www.mathworks.com/products/matlab.html)
 The 50, 100, 150, 200, 250, 300, 350, 400-ROI MWMA and the white matter mask in nifti format are provided.
 
 The functional network label file and the ITKSNAP-description file of the MWMAs at all resolutions are provided.
+
+For the 200-ROI MWMA, we also provided the corresponding labels of homologous ROIs across hemispheres.
 
 Network label: 1-DMN 2-FPN 3-SMN 4-AN 5-VN 6-BSN 7-CBN
 
