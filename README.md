@@ -1,3 +1,4 @@
+![MWMA-200](./MWMA-200_picture.png)
 # Multimodal white matter atlas (MWMA)
 Welcome to the MWMA package; a companion to our article "Multimodal, multifaceted, imaging-based human brain white matter atlas".
 
